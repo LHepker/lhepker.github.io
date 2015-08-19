@@ -13,6 +13,10 @@ code {
 	padding: 24px 15px;
 	text-align: center;
 }
+code:hover {
+	background: green;
+	text-transform: lowercase;
+}
 .btn {
 	font-size: 18px;
 	border-radius: 8px;
