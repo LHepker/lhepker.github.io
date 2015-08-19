@@ -1,0 +1,14 @@
+header,
+/*section,
+aside,
+footer*/ {
+	margin: 0 1.5%;
+}
+code {
+	background: radial-gradient(#1398c5, #0077a2);
+	border-radius: 6px;
+	color: #fff;
+	display: block;
+	font: 24px "Lucida Console", Terminal;
+	padding: 24px 15px;
+	text-align: center;
